@@ -3,12 +3,6 @@
 
 <p><h6 align="left">Aware of the growing importance of security in the digital world, I'm currently on a work-study program as a Network Security Engineer. At the same time, I'm continuing my engineering training at EFREI Paris in the Network and Security curriculum </h6></p>
 
-<style>
-        h6 {
-            text-align: justify;
-        }
-</style>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cotrixx&label=Profile%20views&color=0e75b6&style=flat" alt="cotrixx" /> </p>
 
 - 🔭 I’m currently working on [the design and 3D of Adventur'IT](https://github.com/CotrixX/adventurit)

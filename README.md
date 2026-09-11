@@ -13,11 +13,14 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/corentin-gauttier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corentin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/corentin-gauttier/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <h3 align="left">Certifications :</h3>
-<p align="left"> <a href="https://www.credly.com/badges/c45f45ee-8fd2-4379-b25a-4a861079650e/linked_in?t=s3c8j6" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="fortinet certified fundamentals" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/b32a13ac-93b7-4aff-8c2a-73e8d9384bdf/linked_in?t=s3cncd" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="fortinet certified associate" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.credly.com/badges/c45f45ee-8fd2-4379-b25a-4a861079650e/linked_in?t=s3c8j6" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Fortinet%20Certified-Fundamentals-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet Certified Fundamentals" /></a>
+<a href="https://www.credly.com/badges/b32a13ac-93b7-4aff-8c2a-73e8d9384bdf/linked_in?t=s3cncd" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Fortinet%20Certified-Associate-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet Certified Associate" /></a>
+</p>
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">

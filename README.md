@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corentin</h1>
 <h3 align="left">IT Engineer — Network & Security · Builder</h3>
 
-<p><h6 align="left">Network & Security Engineer at Orange France (via SII), after an engineering degree in Network & Security from EFREI Paris. On the side, I design and ship web & mobile products for clients — available for freelance builds from Q3 2026.</h6></p>
+<p><h6 align="left">Network & Security Engineer at Orange France, after an engineering degree in Network & Security from EFREI Paris. On the side, I design and ship web & mobile products for clients.</h6></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cotrixx&label=Profile%20views&color=0e75b6&style=flat" alt="cotrixx" /> </p>
 
